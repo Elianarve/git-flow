@@ -11,6 +11,7 @@ body {
 }
 
 .footer{
-    background-color: blue;
-    color:white
+    background-color:blueviolet;
+    color:white;
+    font-size: 30px;
 }
